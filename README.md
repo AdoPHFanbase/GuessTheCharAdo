@@ -1,3 +1,2 @@
 mini game for adoph cse:
-
-https://dayn-01.github.io/adoph_guessthechar/
+https://adophfanbase.github.io/GuessTheCharAdo/
