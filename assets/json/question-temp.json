@@ -1,0 +1,62 @@
+{
+    "difficulty" :  {
+        "1" : {
+            "characters" : {
+                "count"  : 7,
+                "list"   : [
+                    {
+                        "name" : "Aoi",
+                        "faded_link" : "assets/images/1/Faded_Aoi.png",
+                        "full_link" : "assets/images/1/Full_Aoi.png"
+                    },
+                    {
+                        "name" : "Yorupi",
+                        "faded_link" : "assets/images/1/Faded_Yorupi.png",
+                        "full_link" : "assets/images/1/Full_Yorupi.png"
+                    },
+                    {
+                        "name" : "Yulia",
+                        "faded_link" : "assets/images/1/Faded_Yulia.png",
+                        "full_link" : "assets/images/1/Full_Yulia.png"
+                    },
+                    {
+                        "name" : "Keiko",
+                        "faded_link" : "assets/images/1/Faded_Keiko.png",
+                        "full_link" : "assets/images/1/Full_Keiko.png"
+                    },
+                    {
+                        "name" : "Uta",
+                        "faded_link" : "assets/images/1/Faded_Uta.png",
+                        "full_link" : "assets/images/1/Full_Uta.png"
+                    },
+                     {
+                        "name" : "HatsuneMiku",
+                        "faded_link" : "assets/images/1/Faded_Miku.png",
+                        "full_link" : "assets/images/1/Full_Miku.png"
+                    },
+                    {
+                        "name" : "Naima",
+                        "faded_link" : "assets/images/1/Faded_Naima.png",
+                        "full_link" : "assets/images/1/Full_Naima.png"
+                    }
+                ]
+            }
+        },
+        "2" : {
+            "characters" : {
+                "count"  : 2,
+                "list"   : [
+                    
+                ]
+            }
+        },         
+        "3" : {
+            "characters" : {
+                "count"  : 2,
+                "list"   : [
+                   
+                ]
+            }
+        }  
+    }
+}
